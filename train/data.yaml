@@ -1,0 +1,6 @@
+
+train: 'C:/Users/NajibS/OneDrive - Process Integration Limited/DigitalBrain/PFD-ComputerVision/process_flow_diagrams_detection_v4/train/data/images/train'
+val: 'C:/Users/NajibS/OneDrive - Process Integration Limited/DigitalBrain/PFD-ComputerVision/process_flow_diagrams_detection_v4/train/data/images/val'
+
+nc: 1
+names: ['item']

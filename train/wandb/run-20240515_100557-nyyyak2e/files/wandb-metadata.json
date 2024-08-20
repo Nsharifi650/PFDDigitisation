@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.3",
+    "heartbeatAt": "2024-05-15T09:05:59.927191",
+    "startedAt": "2024-05-15T09:05:57.749907",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/kaustubhroy1995/process_flow_diagrams_detection.git",
+        "commit": "ceb90d9d5456562be9aeb36e268fed0ebb6ad20c"
+    },
+    "email": "91625493+Nsharifi650@users.noreply.github.com",
+    "root": "C:/Users/NajibS/OneDrive - Process Integration Limited/DigitalBrain/PFD-ComputerVision/process_flow_diagrams_detection_draft1",
+    "host": "PIL0038",
+    "username": "NajibS",
+    "executable": "c:\\ProgramData\\anaconda3\\python.exe",
+    "cpu_count": 10,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 1472.0,
+        "min": 0.0,
+        "max": 1800.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1472.0,
+            "min": 0.0,
+            "max": 1800.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 951.6455039978027,
+            "used": 284.2273139953613
+        }
+    },
+    "memory": {
+        "total": 31.602699279785156
+    }
+}
